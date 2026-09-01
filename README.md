@@ -37,7 +37,3 @@ eodhd_asset_pricing/
 tests/
   test_client.py
 ```
-
-## Resume Positioning
-
-This is best used as a supporting data-ingestion utility, not the headline project. It complements a platform or SRE story when paired with CI, validation, and operational documentation.
